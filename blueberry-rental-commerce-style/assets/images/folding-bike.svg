@@ -1,0 +1,29 @@
+<svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="360" rx="28" fill="url(#bg)"/>
+  <ellipse cx="360" cy="294" rx="224" ry="17" fill="#0A0519" opacity=".08"/>
+  <circle cx="220" cy="244" r="58" stroke="#20252A" stroke-width="12"/>
+  <circle cx="502" cy="244" r="58" stroke="#20252A" stroke-width="12"/>
+  <g stroke="#4A4D51" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M220 244L326 166L390 244H220Z"/>
+    <path d="M326 166L502 244"/>
+    <path d="M390 244L450 146"/>
+    <path d="M326 166H438"/>
+    <path d="M450 146L502 244"/>
+  </g>
+  <circle cx="358" cy="202" r="15" fill="#FFFFFF" stroke="#0A0519" stroke-width="6"/>
+  <path d="M300 136H370" stroke="#171A1E" stroke-width="12" stroke-linecap="round"/>
+  <path d="M462 128H528" stroke="#171A1E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M470 128L502 244" stroke="#171A1E" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="390" cy="244" r="17" fill="#171A1E"/>
+  <g stroke="#20252A" stroke-width="2" opacity=".34">
+    <path d="M220 186V302M162 244H278M179 203L261 285M179 285L261 203"/>
+    <path d="M502 186V302M444 244H560M461 203L543 285M461 285L543 203"/>
+  </g>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="360">
+      <stop stop-color="#F6F4EF"/>
+      <stop offset=".52" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E9ECEB"/>
+    </linearGradient>
+  </defs>
+</svg>
